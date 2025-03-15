@@ -14,7 +14,7 @@ import { useParams } from "react-router-dom";
 import { toast } from "sonner";
 
 // Media End-Point
-const MEDIA_API = "http://localhost:9000/api/v1/media";
+const MEDIA_API = "https://lms-backed.onrender.com/api/v1/media";
 
 const LectureTab = () => {
 
